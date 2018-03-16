@@ -17,4 +17,4 @@ Watching movies is one of the most popular pasttimes today. There are so many mo
 
 To address this question, I will use the enormous MovieLens data sets (http://movielens.org), which is collected by GroupLens Research (https://grouplens.org/datasets/movielens/). This dataset consists of more than 20 million ratings of nearly 30,000 movies, with around 130,000 users.
 
-Please look at the website in detail: https://mihwa-han.github.io/project3.html
+Please look at the website in detail: https://mihwa-han.github.io/project2.html
