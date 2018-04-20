@@ -7,6 +7,9 @@
   <img src="./img/logo2.png" >
 
 </p>
+
+<p align="center"> Are You curious about Smart Movie Ratings? [Click Here](http://bias-movie-ratings.herokuapp.com/rating)
+  </p>
 The data is from grouplens(https://grouplens.org/datasets/movielens/). Due to the limitation of the capacity of Github, I do not upload the file I used. Please go to the above link and download it if you need. 
 
 
