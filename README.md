@@ -1,17 +1,14 @@
 # Smart Movie Ratings
 
+[Smart Movie Ratings](http://bias-movie-ratings.herokuapp.com/rating) is a web application for providing ratings broken down into fundamental genre preference groups. These groups were defined by an unsupervised machine learning algorithm, which revealed several core segmentations of movie viewers. The purpose of this web app is to show how the ratings for movies can differ between these groups.
+
 <p align="center">
 
   <img src="./img/logo2.png" >
 
 </p>
-
-[Smart Movie Ratings](http://bias-movie-ratings.herokuapp.com/rating) is a web application for providing ratings broken down into fundamental genre preference groups. These groups were defined by an unsupervised machine learning algorithm, which revealed several core segmentations of movie viewers. The purpose of this web app is to show how the ratings for movies can differ between these groups.
-
 The data is from grouplens(https://grouplens.org/datasets/movielens/). Due to the limitation of the capacity of Github, I do not upload the file I used. Please go to the above link and download it if you need. 
 
-
-# MovieLens Data sets
 
 ## Can we trust the ratings of movies to be unbiased?
 
