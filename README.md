@@ -8,7 +8,7 @@
 
 </p>
 
-Are You curious about Smart Movie Ratings? [Click Here](http://bias-movie-ratings.herokuapp.com/rating)
+Are You curious about Smart Movie Ratings? [Click Here!](http://bias-movie-ratings.herokuapp.com/rating)
  
  
 ## Dataset
