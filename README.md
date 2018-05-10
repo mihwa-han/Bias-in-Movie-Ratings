@@ -20,6 +20,6 @@ The data is from grouplens(https://grouplens.org/datasets/movielens/). Due to th
 
 Watching movies is one of the most popular pasttimes today. There are so many movies being released for streaming every year, and it is impossible to keep up with all of them. When someone is looking for a new movie to watch, he/she will often turn to movie-related sites, like IMDB or rotten tomatoes, which aggregate ratings, reviews, and other information about movies. One of the most important factors influencing one's decision to watch a movie is the overall rating. However, does the rating reasonably represent the entire population's opinion of the movie? 
 
-To address this question, I will use the enormous MovieLens data sets (http://movielens.org), which is collected by GroupLens Research (https://grouplens.org/datasets/movielens/). This dataset consists of more than 20 million ratings of nearly 30,000 movies, with around 130,000 users.
+To address this question, I will use the enormous MovieLens data sets (http://movielens.org), which is collected by GroupLens Research (https://grouplens.org/datasets/movielens/). This dataset consists of more than 20 million ratings of nearly 45,000 movies, with around 270,000 users.
 
 Please look at the website in detail: https://mihwa-han.github.io/project2.html
